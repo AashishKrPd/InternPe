@@ -10,11 +10,11 @@ Hey there! This is Aashish Kumar Prasad. Here I uploaded all my Python Programmi
 ## Task 3: Snake Game                                                                                                                                                    
 <a href="https://github.com/AashishKrPd/InternPe/tree/main/Task_03_Snake_Game"><img src="./Thumbnail/Task3.png" width="50%"></a>
 
-##Task 4: Connect Four
+## Task 4: Connect Four
 <a href="https://github.com/AashishKrPd/InternPe/tree/main/Task_04_Connect_Four"><img src="./Thumbnail/Task4.png" width="50%"></a>
 
 
-##Task 4: Connect Four
+
 ### Application download link
 <a href="https://github.com/AashishKrPd/InternPe/releases/tag/v1.0.0">Download!</a>
 
